@@ -10,12 +10,6 @@ Features
 ✔️ Secure user information storage
 ✔️ Built with Java, NetBeans, Apache, MySQL, phpMyAdmin
 
-Technologies Used
-Java
-NetBeans
-Apache
-MySQL
-GitHub
 
 <img width="1496" alt="Ekran Resmi 2025-02-28 15 15 56" src="https://github.com/user-attachments/assets/f74b44b3-470f-43b4-adaf-27a9bedb952e" />
 <img width="1403" alt="Ekran Resmi 2025-02-28 15 17 08" src="https://github.com/user-attachments/assets/ef0f2d48-8670-4dd7-9161-3371a3d3be41" />
